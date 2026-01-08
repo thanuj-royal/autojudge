@@ -42,7 +42,7 @@ We evaluated the models using 5-Fold Cross-Validation. The improved noise reduct
 - **RMSE (Root Mean Square Error)**: **1.98** (Improved from 2.73)
 
 ## 🎥 Demo Video
-**Watch the demo:** [AutoJudge Demo Video](https://youtu.be/Ya5b3HLl8Xo)
+**Watch the demo:** [AutoJudge Demo Video](https://www.youtube.com/watch?v=Ya5b3HLl8Xo)
 
 ## 👤 Author Details
 **Name**: Chakrala Reddy Thanuj Royal  
